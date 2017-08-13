@@ -163,8 +163,8 @@ footer img {
   }
 }
 
-/*layout changes for mobile*/
-@media only screen and (max-width: 478px) {
+/*layout changes for mobile, used 650px instead of 478px*/
+@media only screen and (max-width: 650px) {
   header {
     height: 17rem;
     background-position: 20%;
